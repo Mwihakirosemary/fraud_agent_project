@@ -346,7 +346,6 @@ streamlit run dashboard/dashboard.py --server.port 8502
 ## 🎓 Academic Context
 
 **Course:** Agentic AI Systems  
-**Institution:** [Your University]  
 **Timeframe:** November 2025
 
 ### **Learning Objectives Met:**
