@@ -1,0 +1,44 @@
+{
+  "generation_date": "2025-11-19T23:34:57.672730",
+  "model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "embeddings_generated": {
+    "fraud_patterns": {
+      "count": 100,
+      "shape": [
+        100,
+        384
+      ],
+      "file_size_mb": 0.1466064453125
+    },
+    "investigation_cases": {
+      "count": 200,
+      "shape": [
+        200,
+        384
+      ],
+      "file_size_mb": 0.2930908203125
+    },
+    "pdf_documents": {
+      "count": 12,
+      "shape": [
+        12,
+        384
+      ],
+      "file_size_mb": 0.0177001953125
+    },
+    "kyc_profiles": {
+      "count": 488,
+      "shape": [
+        488,
+        384
+      ],
+      "file_size_mb": 0.7149658203125
+    }
+  },
+  "chromadb_collections": {
+    "kyc_profiles": 488,
+    "investigation_cases": 200,
+    "fraud_patterns": 100
+  }
+}

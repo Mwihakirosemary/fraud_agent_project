@@ -1,0 +1,7 @@
+{
+  "creditcard": {
+    "missing_values": 0,
+    "duplicates": 1081,
+    "total_rows": 284807
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cleaning_date": "2025-11-19T06:29:13.220969",
+  "cleaned_datasets": {
+    "creditcard": {
+      "rows": 283726,
+      "columns": 39,
+      "memory_mb": 67.64554977416992,
+      "file_path": "fraud_agent_project/outputs/cleaned/creditcard_cleaned.parquet"
+    },
+    "siem_logs": {
+      "rows": 1996,
+      "columns": 18,
+      "memory_mb": 1.9068899154663086,
+      "file_path": "fraud_agent_project/outputs/cleaned/siem_logs_cleaned.parquet"
+    },
+    "kyc_profiles": {
+      "rows": 488,
+      "columns": 18,
+      "memory_mb": 0.46134185791015625,
+      "file_path": "fraud_agent_project/outputs/cleaned/kyc_profiles_cleaned.parquet"
+    },
+    "investigation_cases": {
+      "rows": 200,
+      "columns": 9,
+      "memory_mb": 0.1211538314819336,
+      "file_path": "fraud_agent_project/outputs/cleaned/investigation_cases_cleaned.parquet"
+    },
+    "fraud_patterns": {
+      "rows": 100,
+      "columns": 8,
+      "memory_mb": 0.059841156005859375,
+      "file_path": "fraud_agent_project/outputs/cleaned/fraud_patterns_cleaned.parquet"
+    }
+  },
+  "total_records_cleaned": 286510
+}

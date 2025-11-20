@@ -1,0 +1,1802 @@
+[
+  {
+    "case_id": "CASE-6622",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Rachel Mullins",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-04-10 01:14:26.209981"
+  },
+  {
+    "case_id": "CASE-2132",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Timothy Moore",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-27 15:02:32.015206"
+  },
+  {
+    "case_id": "CASE-8857",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Mrs. Carrie Hall",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-31 06:35:49.718307"
+  },
+  {
+    "case_id": "CASE-7456",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Erica Richards",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-11-08 07:03:33.504730"
+  },
+  {
+    "case_id": "CASE-1158",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Gavin Bradley",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-08 02:10:47.578177"
+  },
+  {
+    "case_id": "CASE-6905",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Brooke Ortiz",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-05 15:45:32.644351"
+  },
+  {
+    "case_id": "CASE-6342",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Ryan Nichols",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-06-27 09:01:21.330993"
+  },
+  {
+    "case_id": "CASE-1222",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Christina Vargas",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-09-26 22:05:24.581325"
+  },
+  {
+    "case_id": "CASE-5445",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Amanda Clark",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-19 18:19:06.420123"
+  },
+  {
+    "case_id": "CASE-1237",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Adrian Ruiz",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-11-04 02:57:03.836096"
+  },
+  {
+    "case_id": "CASE-2734",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Karen Guzman",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-11 03:26:00.726882"
+  },
+  {
+    "case_id": "CASE-1409",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "James Blake",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-29 14:15:02.043758"
+  },
+  {
+    "case_id": "CASE-7158",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Nathaniel Joseph",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-08-04 12:39:55.435853"
+  },
+  {
+    "case_id": "CASE-6896",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Michael Coleman",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-30 04:06:07.337048"
+  },
+  {
+    "case_id": "CASE-3371",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Jesse Frank",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-02-01 21:14:59.190671"
+  },
+  {
+    "case_id": "CASE-3922",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Daniel Murphy",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-11-04 16:32:14.245578"
+  },
+  {
+    "case_id": "CASE-7241",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Hannah Allen",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-04 01:58:21.199395"
+  },
+  {
+    "case_id": "CASE-6892",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Michael Jennings",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-26 10:38:51.626559"
+  },
+  {
+    "case_id": "CASE-4175",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Dennis Perez",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-20 00:09:36.461074"
+  },
+  {
+    "case_id": "CASE-3116",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Sean Mcpherson",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-08 22:18:46.439578"
+  },
+  {
+    "case_id": "CASE-2871",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Harry Roth",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-03-12 18:18:48.329995"
+  },
+  {
+    "case_id": "CASE-4730",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Cynthia Leon",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-15 02:21:57.455914"
+  },
+  {
+    "case_id": "CASE-5688",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Kyle Fletcher",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-06-29 20:05:08.717420"
+  },
+  {
+    "case_id": "CASE-5878",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Richard Foley",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-17 22:04:10.988633"
+  },
+  {
+    "case_id": "CASE-4812",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Alicia Jackson",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-15 10:11:05.882182"
+  },
+  {
+    "case_id": "CASE-1465",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Victor Sims",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-07-16 23:29:36.802466"
+  },
+  {
+    "case_id": "CASE-9380",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Michael Calhoun",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-09-22 05:37:38.563564"
+  },
+  {
+    "case_id": "CASE-8991",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Cameron Hess",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-29 19:36:43.120103"
+  },
+  {
+    "case_id": "CASE-6102",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Carrie Rodriguez",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-04-17 16:01:30.113144"
+  },
+  {
+    "case_id": "CASE-5572",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Kevin Gilbert",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-18 22:40:51.805620"
+  },
+  {
+    "case_id": "CASE-3986",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "John Little",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-04-18 20:47:51.943505"
+  },
+  {
+    "case_id": "CASE-7964",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Dustin Chung",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-12 01:41:15.260309"
+  },
+  {
+    "case_id": "CASE-5174",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Robert Tanner",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-04 06:10:20.727457"
+  },
+  {
+    "case_id": "CASE-3397",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Riley Martin",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-12 09:42:11.701878"
+  },
+  {
+    "case_id": "CASE-4367",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Dana Sanchez",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-20 00:35:52.208760"
+  },
+  {
+    "case_id": "CASE-1205",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Anthony Adams",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-17 06:57:00.229581"
+  },
+  {
+    "case_id": "CASE-1548",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Kathleen Watts",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-07-05 05:43:24.676412"
+  },
+  {
+    "case_id": "CASE-1623",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Shannon Higgins",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-03-09 10:21:54.348834"
+  },
+  {
+    "case_id": "CASE-4630",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Alex Bautista",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-12 14:27:05.186640"
+  },
+  {
+    "case_id": "CASE-2102",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Selena Thompson",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-27 00:57:54.462459"
+  },
+  {
+    "case_id": "CASE-5185",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Frederick Miller",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-17 03:33:19.498034"
+  },
+  {
+    "case_id": "CASE-1460",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Krista Mcgee",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-28 03:53:58.255424"
+  },
+  {
+    "case_id": "CASE-7445",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Anna Perez",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-04-12 20:43:02.422094"
+  },
+  {
+    "case_id": "CASE-8641",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Nicholas Brown",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-09-10 00:34:54.447463"
+  },
+  {
+    "case_id": "CASE-9953",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Chelsey Sullivan",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-31 16:57:46.087697"
+  },
+  {
+    "case_id": "CASE-6213",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Justin Cervantes",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-02 18:16:12.082925"
+  },
+  {
+    "case_id": "CASE-4008",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Christopher Arroyo",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-03-16 16:52:51.231568"
+  },
+  {
+    "case_id": "CASE-4280",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Mitchell Hodges",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-12 06:31:35.709770"
+  },
+  {
+    "case_id": "CASE-8874",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Nathaniel Jennings",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-09-16 10:51:21.904812"
+  },
+  {
+    "case_id": "CASE-2045",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Erica Hernandez",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-04-03 02:46:09.560769"
+  },
+  {
+    "case_id": "CASE-8315",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Anthony Bush",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-30 16:40:28.256738"
+  },
+  {
+    "case_id": "CASE-3801",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Leslie Williams MD",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-09 23:25:08.065071"
+  },
+  {
+    "case_id": "CASE-2496",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Jacqueline Barajas",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-27 01:46:56.483236"
+  },
+  {
+    "case_id": "CASE-4410",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Ann Allen",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-24 11:11:54.128475"
+  },
+  {
+    "case_id": "CASE-6187",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Harold Duarte",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-10-25 22:35:17.197611"
+  },
+  {
+    "case_id": "CASE-7373",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Drew Chan",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-08 00:39:17.536867"
+  },
+  {
+    "case_id": "CASE-2062",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Sarah Yang",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-02 18:52:25.485996"
+  },
+  {
+    "case_id": "CASE-3242",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Bryan Lee",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-10-18 16:53:09.143455"
+  },
+  {
+    "case_id": "CASE-3151",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Jason Rojas",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-11 08:45:31.968147"
+  },
+  {
+    "case_id": "CASE-9241",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Scott Myers",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-07-30 05:41:18.108957"
+  },
+  {
+    "case_id": "CASE-8562",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Amy Bean",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-01 11:09:08.225487"
+  },
+  {
+    "case_id": "CASE-6026",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Jeremy Ray",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-27 22:59:13.118000"
+  },
+  {
+    "case_id": "CASE-1447",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Shelby Cooper",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-11-05 10:55:52.192833"
+  },
+  {
+    "case_id": "CASE-3820",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Brian Hernandez",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-06-01 22:32:06.334643"
+  },
+  {
+    "case_id": "CASE-3105",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Joshua Mooney",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-03 06:05:05.005198"
+  },
+  {
+    "case_id": "CASE-1413",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Arthur Pham",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-12 06:50:02.825566"
+  },
+  {
+    "case_id": "CASE-5528",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Nicholas Johnson",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-11-10 16:07:53.495915"
+  },
+  {
+    "case_id": "CASE-9105",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Alexander Lawson",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-09-05 18:41:06.865392"
+  },
+  {
+    "case_id": "CASE-9459",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Zachary Thomas",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-07-25 23:55:40.017322"
+  },
+  {
+    "case_id": "CASE-7611",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Brianna Gonzalez",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-07 18:07:50.259814"
+  },
+  {
+    "case_id": "CASE-6066",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Michael Delgado",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-06-21 08:00:14.117415"
+  },
+  {
+    "case_id": "CASE-5154",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Barbara Robinson",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-21 21:47:33.479400"
+  },
+  {
+    "case_id": "CASE-3498",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Mark Zavala",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-26 10:24:39.709124"
+  },
+  {
+    "case_id": "CASE-9935",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Charles Bryant",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-18 09:24:00.560196"
+  },
+  {
+    "case_id": "CASE-9386",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "David Ortega",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-09-25 04:18:12.249379"
+  },
+  {
+    "case_id": "CASE-6513",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Tammy Harris",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-24 14:47:50.976518"
+  },
+  {
+    "case_id": "CASE-6938",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Kendra Zuniga",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-15 17:40:11.655492"
+  },
+  {
+    "case_id": "CASE-8016",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Laura Jarvis",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-28 19:14:33.232519"
+  },
+  {
+    "case_id": "CASE-9577",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Jessica James",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-05 20:49:40.481828"
+  },
+  {
+    "case_id": "CASE-6740",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Mr. Gregory Garcia",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-10-28 23:26:30.351991"
+  },
+  {
+    "case_id": "CASE-6046",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Christine Juarez",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-11 01:29:39.478289"
+  },
+  {
+    "case_id": "CASE-3721",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "William Morrison",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-11-09 13:20:51.102774"
+  },
+  {
+    "case_id": "CASE-9587",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Kevin Peck",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-10-10 00:05:37.581701"
+  },
+  {
+    "case_id": "CASE-8855",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Amanda Cruz",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-16 11:44:43.775952"
+  },
+  {
+    "case_id": "CASE-2862",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Rita Jackson",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-31 05:57:45.163949"
+  },
+  {
+    "case_id": "CASE-7869",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "John Hanson",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-02 10:26:30.453833"
+  },
+  {
+    "case_id": "CASE-7355",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Michael Gaines",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-15 23:11:27.983583"
+  },
+  {
+    "case_id": "CASE-7607",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "John Scott",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-11 05:19:32.818148"
+  },
+  {
+    "case_id": "CASE-1389",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Jennifer Franklin",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-27 15:51:05.893903"
+  },
+  {
+    "case_id": "CASE-9798",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Sarah Wise",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-20 14:35:02.854970"
+  },
+  {
+    "case_id": "CASE-5238",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Christopher Green",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-30 06:45:19.464919"
+  },
+  {
+    "case_id": "CASE-5010",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Miguel Roberts",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-16 10:23:27.497691"
+  },
+  {
+    "case_id": "CASE-4079",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Clayton Matthews",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-08 17:23:55.652957"
+  },
+  {
+    "case_id": "CASE-8758",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Jennifer Howard",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-07-28 09:57:26.245916"
+  },
+  {
+    "case_id": "CASE-4122",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Terri Moore",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-10-03 22:42:00.386574"
+  },
+  {
+    "case_id": "CASE-4648",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Peter Evans",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-28 19:17:04.647814"
+  },
+  {
+    "case_id": "CASE-3205",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Joel Cook",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-06 04:47:31.707380"
+  },
+  {
+    "case_id": "CASE-5221",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Nicholas Perez",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-09-01 05:49:10.339134"
+  },
+  {
+    "case_id": "CASE-3204",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Colleen Woodward",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-06-06 15:00:41.521278"
+  },
+  {
+    "case_id": "CASE-5689",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Nancy Joseph",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-10-14 22:21:10.574725"
+  },
+  {
+    "case_id": "CASE-4141",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Cassandra Henson",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-03-29 15:24:37.706623"
+  },
+  {
+    "case_id": "CASE-4380",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Valerie Gray",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-08 14:30:35.201647"
+  },
+  {
+    "case_id": "CASE-1139",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "James Dodson",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-04-26 17:03:07.489775"
+  },
+  {
+    "case_id": "CASE-1157",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Tonya Phillips",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-11 01:43:22.102376"
+  },
+  {
+    "case_id": "CASE-5225",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Robert Ramos",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-09 20:50:56.700132"
+  },
+  {
+    "case_id": "CASE-6348",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Kristina Bruce",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-06 10:13:01.048743"
+  },
+  {
+    "case_id": "CASE-6953",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Nicole Brown",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-22 14:20:08.059870"
+  },
+  {
+    "case_id": "CASE-1149",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Mark Hansen",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-10-05 12:03:38.226478"
+  },
+  {
+    "case_id": "CASE-1942",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Carrie Rowe",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-07 19:59:30.286689"
+  },
+  {
+    "case_id": "CASE-9302",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Joanna Brown",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-09-20 18:03:08.502613"
+  },
+  {
+    "case_id": "CASE-2226",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Bruce Wolfe",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-27 12:30:01.011374"
+  },
+  {
+    "case_id": "CASE-1571",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Nicole Price",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-06-20 14:07:06.944735"
+  },
+  {
+    "case_id": "CASE-9191",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Ariel Sandoval",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-29 18:07:10.712505"
+  },
+  {
+    "case_id": "CASE-9306",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Brittany Brown",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-06-27 14:44:46.640719"
+  },
+  {
+    "case_id": "CASE-2896",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Thomas Neal",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-22 20:34:39.784018"
+  },
+  {
+    "case_id": "CASE-1433",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Parker Meyer",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-09-02 13:12:21.945179"
+  },
+  {
+    "case_id": "CASE-7357",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Ashley Jenkins",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-03-07 01:26:58.709425"
+  },
+  {
+    "case_id": "CASE-5232",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Nicole Gonzalez",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-04-01 19:42:11.515558"
+  },
+  {
+    "case_id": "CASE-6369",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Kristen Hicks",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-18 05:07:06.964603"
+  },
+  {
+    "case_id": "CASE-2489",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Scott Mitchell",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-09-26 01:32:24.976468"
+  },
+  {
+    "case_id": "CASE-9551",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Amy Flores",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-03-24 02:09:11.898576"
+  },
+  {
+    "case_id": "CASE-7178",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Jason Huff",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-03-12 02:26:17.337975"
+  },
+  {
+    "case_id": "CASE-5947",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Jennifer Schultz",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-21 02:15:42.228127"
+  },
+  {
+    "case_id": "CASE-1977",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Lauren Avery",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-18 05:25:07.445637"
+  },
+  {
+    "case_id": "CASE-2102",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Ashley Cardenas",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-06-15 20:18:12.201284"
+  },
+  {
+    "case_id": "CASE-8858",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Timothy Fields",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-06 10:27:51.009912"
+  },
+  {
+    "case_id": "CASE-1232",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Valerie Mason",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-09-30 03:53:55.752761"
+  },
+  {
+    "case_id": "CASE-6079",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Lauren Wiley",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-10-27 19:17:56.794466"
+  },
+  {
+    "case_id": "CASE-6855",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Shelly Williams",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-11-09 00:10:44.145731"
+  },
+  {
+    "case_id": "CASE-7744",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Susan Duncan",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-04-15 17:30:01.638978"
+  },
+  {
+    "case_id": "CASE-9022",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Katherine Jacobson",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-08-17 20:54:35.193945"
+  },
+  {
+    "case_id": "CASE-7469",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Robin Peterson",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-28 10:23:04.215775"
+  },
+  {
+    "case_id": "CASE-5573",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "David Davis",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-31 08:38:20.242821"
+  },
+  {
+    "case_id": "CASE-9452",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Anthony Phillips",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-05-07 08:28:32.791611"
+  },
+  {
+    "case_id": "CASE-8442",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Ronald Ruiz",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-11 05:36:20.107482"
+  },
+  {
+    "case_id": "CASE-8227",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Sarah Thompson",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-26 21:32:37.110094"
+  },
+  {
+    "case_id": "CASE-2116",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Lori Johnson",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-19 00:03:57.514856"
+  },
+  {
+    "case_id": "CASE-3284",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Jeremy Mcdonald",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-26 20:53:27.875606"
+  },
+  {
+    "case_id": "CASE-5563",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "William Butler DDS",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-02-01 10:16:49.558792"
+  },
+  {
+    "case_id": "CASE-3898",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Matthew Jackson",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-09 21:06:55.660879"
+  },
+  {
+    "case_id": "CASE-7708",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Mrs. Nicole Bailey",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-09-16 06:37:17.769170"
+  },
+  {
+    "case_id": "CASE-3259",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "William Campos",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-01-11 16:34:02.068375"
+  },
+  {
+    "case_id": "CASE-6839",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Robert Frederick",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-16 13:35:30.589897"
+  },
+  {
+    "case_id": "CASE-4591",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Brianna Lee",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-05-30 02:29:26.398540"
+  },
+  {
+    "case_id": "CASE-1389",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Nicole Tucker",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-26 12:53:01.595598"
+  },
+  {
+    "case_id": "CASE-7823",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Joshua Moran",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-04-19 23:12:01.951169"
+  },
+  {
+    "case_id": "CASE-7860",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Heather Sims",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-18 14:22:31.948672"
+  },
+  {
+    "case_id": "CASE-6441",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Daniel Gay",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-01 14:39:05.394376"
+  },
+  {
+    "case_id": "CASE-3364",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Christine Allison",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-03-01 22:47:14.057770"
+  },
+  {
+    "case_id": "CASE-5349",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Patrick Wood",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-07-05 08:06:32.814069"
+  },
+  {
+    "case_id": "CASE-2212",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Charles Henderson",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-10-07 06:33:36.417358"
+  },
+  {
+    "case_id": "CASE-4358",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Adam Garcia",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-09-15 07:43:44.326306"
+  },
+  {
+    "case_id": "CASE-5587",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Nicholas Davis",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-26 11:15:06.038057"
+  },
+  {
+    "case_id": "CASE-3503",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Ian Schroeder",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-10-03 18:27:35.908508"
+  },
+  {
+    "case_id": "CASE-2709",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Jason Armstrong DDS",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-08-04 01:02:51.390962"
+  },
+  {
+    "case_id": "CASE-4039",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Elizabeth Cain",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-02-20 19:15:12.778758"
+  },
+  {
+    "case_id": "CASE-1188",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Jessica Mahoney",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-16 01:50:14.938047"
+  },
+  {
+    "case_id": "CASE-3877",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Clifford Haynes",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-07-11 06:47:23.085533"
+  },
+  {
+    "case_id": "CASE-1158",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Harry Wise",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-05 12:57:20.089838"
+  },
+  {
+    "case_id": "CASE-4240",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Crystal Phillips",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-07-31 21:27:54.217254"
+  },
+  {
+    "case_id": "CASE-4796",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Kelly Thomas",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-24 14:00:53.159419"
+  },
+  {
+    "case_id": "CASE-8657",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "David Caldwell",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-10-14 23:42:24.258899"
+  },
+  {
+    "case_id": "CASE-6750",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Abigail Carrillo",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-18 04:00:29.866677"
+  },
+  {
+    "case_id": "CASE-5073",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Heidi Martin",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-03-18 09:53:55.038061"
+  },
+  {
+    "case_id": "CASE-5138",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "James Smith",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-04 15:08:11.811877"
+  },
+  {
+    "case_id": "CASE-8596",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Julia Sanchez",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-03-22 10:13:51.145372"
+  },
+  {
+    "case_id": "CASE-4202",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Jaime Myers",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-30 18:32:20.869279"
+  },
+  {
+    "case_id": "CASE-9960",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Linda Thompson",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-08-07 13:06:12.629196"
+  },
+  {
+    "case_id": "CASE-4341",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Amy Perry",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-07-14 00:41:52.585387"
+  },
+  {
+    "case_id": "CASE-7479",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Kelly Fischer",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-31 10:37:40.129538"
+  },
+  {
+    "case_id": "CASE-3154",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Jessica Solis",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-05-02 13:01:13.562073"
+  },
+  {
+    "case_id": "CASE-3173",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "James Fisher",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-22 08:22:46.771318"
+  },
+  {
+    "case_id": "CASE-8439",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Dennis Thompson",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-28 00:47:08.690703"
+  },
+  {
+    "case_id": "CASE-9990",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "David Sherman",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-08-08 11:28:32.684323"
+  },
+  {
+    "case_id": "CASE-5736",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Jeremy Davis",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-09-08 23:34:50.751114"
+  },
+  {
+    "case_id": "CASE-6826",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Laura Phillips",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-04-24 06:24:05.400357"
+  },
+  {
+    "case_id": "CASE-4707",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Hannah Newman",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-09-27 18:31:24.012535"
+  },
+  {
+    "case_id": "CASE-4206",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Daniel Roth",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-08-06 12:26:26.787541"
+  },
+  {
+    "case_id": "CASE-3936",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Kelsey Johnson",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-09-25 03:29:13.361354"
+  },
+  {
+    "case_id": "CASE-2552",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Cheryl Martinez",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-10-28 05:28:17.354857"
+  },
+  {
+    "case_id": "CASE-1807",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Mrs. Nicole Mejia MD",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-08-24 13:39:48.577013"
+  },
+  {
+    "case_id": "CASE-5109",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Benjamin Jackson",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-10 11:40:40.281842"
+  },
+  {
+    "case_id": "CASE-3467",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Troy Brewer",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-09 08:10:59.217446"
+  },
+  {
+    "case_id": "CASE-8522",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Joseph Gillespie",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-18 07:02:49.272595"
+  },
+  {
+    "case_id": "CASE-8002",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Brandon Dougherty",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-11-01 15:19:39.909515"
+  },
+  {
+    "case_id": "CASE-7303",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Billy Weaver",
+    "status": "Open",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-10-29 07:44:41.435003"
+  },
+  {
+    "case_id": "CASE-7818",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Dr. Ann Bender MD",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-01-18 11:07:23.242427"
+  },
+  {
+    "case_id": "CASE-6956",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "William Gonzalez",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-26 15:16:22.941965"
+  },
+  {
+    "case_id": "CASE-7525",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Dennis Hill",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-31 16:14:01.175705"
+  },
+  {
+    "case_id": "CASE-4189",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Ronald Lopez",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-04-14 03:00:39.557391"
+  },
+  {
+    "case_id": "CASE-5905",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Sarah Wright",
+    "status": "Closed",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-02-19 03:05:47.756782"
+  },
+  {
+    "case_id": "CASE-5847",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Corey Young",
+    "status": "Closed",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-16 08:05:09.839835"
+  },
+  {
+    "case_id": "CASE-7663",
+    "fraud_type": "Card Skimming",
+    "description": "Detected card skimming involving unusual device behavior and location anomalies.",
+    "investigator": "Steven Bradford",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-11 08:44:22.608080"
+  },
+  {
+    "case_id": "CASE-9564",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Wayne Griffin",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-07-17 05:35:33.169503"
+  },
+  {
+    "case_id": "CASE-1653",
+    "fraud_type": "Account Takeover",
+    "description": "Detected account takeover involving unusual device behavior and location anomalies.",
+    "investigator": "Jeffrey Carroll DDS",
+    "status": "Open",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-01-10 09:05:55.514328"
+  },
+  {
+    "case_id": "CASE-7035",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Joan Walton",
+    "status": "Under Review",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-06-25 18:20:10.739438"
+  },
+  {
+    "case_id": "CASE-8610",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Monica Gibson",
+    "status": "Under Review",
+    "actions_taken": "Account frozen",
+    "timestamp": "2025-06-01 05:36:59.720370"
+  },
+  {
+    "case_id": "CASE-3130",
+    "fraud_type": "Transaction Laundering",
+    "description": "Detected transaction laundering involving unusual device behavior and location anomalies.",
+    "investigator": "Steven Williams",
+    "status": "Closed",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-19 00:11:04.079111"
+  },
+  {
+    "case_id": "CASE-2767",
+    "fraud_type": "Phishing",
+    "description": "Detected phishing involving unusual device behavior and location anomalies.",
+    "investigator": "Christopher Lawrence",
+    "status": "Under Review",
+    "actions_taken": "Customer contacted",
+    "timestamp": "2025-07-16 08:07:00.893028"
+  },
+  {
+    "case_id": "CASE-9503",
+    "fraud_type": "Identity Theft",
+    "description": "Detected identity theft involving unusual device behavior and location anomalies.",
+    "investigator": "Adrian Rowe",
+    "status": "Open",
+    "actions_taken": "Escalated to compliance",
+    "timestamp": "2025-05-05 09:52:21.248355"
+  }
+]

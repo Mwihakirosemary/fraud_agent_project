@@ -1,0 +1,953 @@
+[
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Money Mule",
+    "indicators": [
+      "New account, large inbound transfers",
+      "Immediate withdrawals"
+    ],
+    "risk_level": "High",
+    "description": "Account used to launder illicit funds."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Card Testing",
+    "indicators": [
+      "Many small online purchases",
+      "Declined transactions"
+    ],
+    "risk_level": "Medium",
+    "description": "Fraudsters testing stolen cards for validity."
+  },
+  {
+    "name": "Smurfing",
+    "indicators": [
+      "Multiple small transfers",
+      "Linked accounts",
+      "Rapid timing"
+    ],
+    "risk_level": "High",
+    "description": "Breaking large transactions into small ones to evade detection."
+  },
+  {
+    "name": "Phishing",
+    "indicators": [
+      "Login from new IP",
+      "Multiple failed attempts",
+      "Device mismatch"
+    ],
+    "risk_level": "Medium",
+    "description": "User credentials compromised via fake login pages."
+  }
+]

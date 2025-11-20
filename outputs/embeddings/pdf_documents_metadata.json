@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "filename": "1837-ArticleText-3940-2-10-20250901.pdf",
+      "file_size_kb": 1065.7216796875,
+      "text_length": 31576
+    },
+    {
+      "filename": "fraud_detection.pdf",
+      "file_size_kb": 556.1337890625,
+      "text_length": 31423
+    },
+    {
+      "filename": "VQC for Financial Fraud detection.pdf",
+      "file_size_kb": 904.416015625,
+      "text_length": 26852
+    },
+    {
+      "filename": "Detection_of_Financial_Statement_Fraud_Using_Deep_.pdf",
+      "file_size_kb": 2402.060546875,
+      "text_length": 65678
+    },
+    {
+      "filename": "Case study of luckin coffee financial fraud.pdf",
+      "file_size_kb": 304.2412109375,
+      "text_length": 18815
+    },
+    {
+      "filename": "CAEE_fraud_detection_format_acceptance01.pdf",
+      "file_size_kb": 2379.7646484375,
+      "text_length": 59519
+    },
+    {
+      "filename": "Maryanne Wamuyu Wanjohi.pdf",
+      "file_size_kb": 1021.5830078125,
+      "text_length": 139453
+    },
+    {
+      "filename": "Adoption of AI-Driven Fraud Detection System in the Nigerian Banking Sector.pdf",
+      "file_size_kb": 548.1298828125,
+      "text_length": 57915
+    },
+    {
+      "filename": "Paper_1-Anomaly_Detection_using_Unsupervised_Methods.pdf",
+      "file_size_kb": 671.470703125,
+      "text_length": 40225
+    },
+    {
+      "filename": "visa-merchant-data-standards-manual.pdf",
+      "file_size_kb": 1509.5927734375,
+      "text_length": 236126
+    },
+    {
+      "filename": "Caf\u00e9 owner\u2019s bold brew in $1 million GST fraud _ Australian Taxation Office.pdf",
+      "file_size_kb": 1455.099609375,
+      "text_length": 558
+    },
+    {
+      "filename": "Annex_4_-_Fraud_and_Corruption_Case_Studies_-_summary.pdf",
+      "file_size_kb": 269.166015625,
+      "text_length": 39049
+    }
+  ],
+  "embedding_dim": 384,
+  "num_embeddings": 12,
+  "model": "all-MiniLM-L6-v2",
+  "generated_at": "2025-11-19T23:34:56.842438"
+}

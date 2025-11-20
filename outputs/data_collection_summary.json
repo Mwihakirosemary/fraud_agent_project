@@ -1,0 +1,41 @@
+{
+  "collection_date": "2025-11-19T06:27:05.322033",
+  "structured_datasets": {
+    "creditcard": [
+      284807,
+      31
+    ],
+    "ieee_fraud": [
+      590540,
+      434
+    ]
+  },
+  "synthetic_datasets": {
+    "siem_logs": [
+      2000,
+      9
+    ],
+    "kyc_profiles": [
+      488,
+      13
+    ],
+    "investigation_cases": [
+      200,
+      7
+    ],
+    "fraud_patterns": [
+      100,
+      4
+    ]
+  },
+  "unstructured_documents": {
+    "total_documents": 12,
+    "document_types": {
+      "case_studies": 2,
+      "research_papers": 9,
+      "regulatory": 2
+    },
+    "total_size_mb": 12.780644416809082
+  },
+  "total_records": 878135
+}

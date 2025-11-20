@@ -1,0 +1,51 @@
+# Environment and secrets
+.env
+.streamlit/secrets.toml
+*.env
+
+# Python
+venv/
+venv_*/
+env/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Icon?
+Thumbs.db
+
+# Project specific
+outputs/investigations/*
+!outputs/investigations/.gitkeep
+vector_db/chroma/*.sqlite3
+vector_db/chroma/*.sqlite3-*
+
+# Keep directory structure
+!outputs/investigations/.gitkeep
+!outputs/cases/.gitkeep
+!outputs/embeddings/.gitkeep
+
+# Large data files (too big for GitHub)
+data/structured/*.csv
+data/structured/**/*.csv
+outputs/cleaned/*.parquet
