@@ -2,7 +2,7 @@
 
 **An intelligent fraud investigation system powered by Google Gemini AI, ChromaDB vector database, and Streamlit.**
 
-Built by: **Rosemary** | November 2024
+Built by: **Rosemary** | November 2025
 
 ---
 
@@ -250,7 +250,7 @@ Edit `agent/config.py` to customize:
 
 ```python
 # Gemini Model (free options)
-GEMINI_MODEL = "gemini-1.5-flash"  # 15 RPM, 1M tokens/day
+GEMINI_MODEL = "gemini-2.5-pro"  
 # or: "gemini-1.5-pro"              # 2 RPM, better quality
 
 # Investigation Settings
@@ -347,7 +347,7 @@ streamlit run dashboard/dashboard.py --server.port 8502
 
 **Course:** Agentic AI Systems  
 **Institution:** [Your University]  
-**Semester:** Fall 2024
+**Timeframe:** November 2025
 
 ### **Learning Objectives Met:**
 ✅ Multi-agent system design  
@@ -403,7 +403,7 @@ streamlit run dashboard/dashboard.py --server.port 8502
 
 ## 🤝 Contributing
 
-This is an academic project, but suggestions are welcome!
+New suggestions are welcome!
 
 **To contribute:**
 1. Fork the repository
@@ -413,26 +413,15 @@ This is an academic project, but suggestions are welcome!
 
 ---
 
-## 📄 License
-
-This project is for educational purposes.  
-**Dataset licenses:** Check individual dataset sources  
-**Code:** MIT License (modify as needed for your submission)
-
----
-
 ## 👤 Author
 
-**Rosemary**  
-[Your University] | [Your Email]  
-November 2024
+**Rosemary Mwihaki**  
+kakirosemary@gmail.com 
+November 2025
 
 ---
 
 ## 🙏 Acknowledgments
-
-- Course instructors and TAs
-- Anthropic Claude (for development assistance)
 - Google Gemini team (for free API access)
 - Open-source community (pandas, scikit-learn, etc.)
 
@@ -456,4 +445,22 @@ November 2024
 
 ---
 
-*Last Updated: November 2024*
+*Last Updated: November 2025*
+## 📦 Data Setup
+
+Due to GitHub file size limits, the datasets are not included in this repository.
+
+### Option 1: Use Sample Data (Quick Start)
+```bash
+python scripts/download_sample_data.py
+```
+
+### Option 2: Download Real Datasets
+
+1. **Credit Card Fraud Dataset**
+   - Download: [Kaggle Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+   - Place in: `data/structured/creditcard.csv`
+
+2. Run the data preparation notebooks in the `notebooks/` directory
+
+See `data/structured/README.md` for detailed instructions.
