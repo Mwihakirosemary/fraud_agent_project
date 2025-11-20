@@ -12,7 +12,10 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-# API Keys - Try Streamlit secrets first, then environment variables
+# ============================================================================
+# API CONFIGURATION
+# ============================================================================
+
 def get_api_key():
     """Get API key from Streamlit secrets or environment."""
     try:
@@ -23,17 +26,36 @@ def get_api_key():
 
 GOOGLE_API_KEY = get_api_key()
 
-# Project Paths
+# ============================================================================
+# PROJECT PATHS
+# ============================================================================
+
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 OUTPUTS_DIR = BASE_DIR / "outputs"
 VECTOR_DB_DIR = BASE_DIR / "vector_db"
 
-# Model Configuration
+# Subdirectories
+CLEANED_DIR = OUTPUTS_DIR / "cleaned"
+EMBEDDINGS_DIR = OUTPUTS_DIR / "embeddings"
+INVESTIGATIONS_DIR = OUTPUTS_DIR / "investigations"
+CASES_DIR = OUTPUTS_DIR / "cases"
+KYC_DIR = OUTPUTS_DIR / "kyc_profiles"
+PATTERNS_DIR = OUTPUTS_DIR / "patterns"
+SIEM_DIR = OUTPUTS_DIR / "siem_logs"
+
+# ============================================================================
+# MODEL CONFIGURATION
+# ============================================================================
+
 GEMINI_MODEL = "gemini-2.5-pro"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 MAX_INVESTIGATION_TURNS = 10
 
-# Confidence Thresholds
+# ============================================================================
+# CONFIDENCE THRESHOLDS
+# ============================================================================
+
 CONFIDENCE_THRESHOLDS = {
     "ESCALATE": 0.85,
     "VERIFY": 0.60,
@@ -41,12 +63,18 @@ CONFIDENCE_THRESHOLDS = {
     "DISMISS": 0.00
 }
 
-# Dashboard Configuration
+# ============================================================================
+# DASHBOARD CONFIGURATION
+# ============================================================================
+
 PAGE_TITLE = "Fraud Detection Agent"
 PAGE_ICON = "🔍"
 LAYOUT = "wide"
 
-# System Prompt for the Agent
+# ============================================================================
+# SYSTEM PROMPT
+# ============================================================================
+
 SYSTEM_PROMPT = """You are an expert fraud investigation agent working for a financial institution's fraud prevention team.
 
 Your role is to:
@@ -85,7 +113,10 @@ Always provide:
 
 Be thorough but efficient. Use tools strategically - don't call the same tool repeatedly with similar inputs."""
 
-# Investigation Prompt Template
+# ============================================================================
+# INVESTIGATION PROMPT TEMPLATE
+# ============================================================================
+
 INVESTIGATION_PROMPT_TEMPLATE = """
 NEW FRAUD ALERT RECEIVED
 ========================
@@ -184,12 +215,17 @@ def print_config():
     print("="*80)
     print(f"Base Directory: {BASE_DIR}")
     print(f"Gemini Model: {GEMINI_MODEL}")
+    print(f"Embedding Model: {EMBEDDING_MODEL}")
     print(f"API Key Set: {'Yes' if GOOGLE_API_KEY else 'No'}")
     print(f"Max Turns: {MAX_INVESTIGATION_TURNS}")
-    print(f"Embedding Model: {EMBEDDING_MODEL}")
     print("\nConfidence Thresholds:")
     for action, threshold in CONFIDENCE_THRESHOLDS.items():
         print(f"  {action}: {threshold}")
+    
+    print("\nPaths:")
+    print(f"  Data: {DATA_DIR}")
+    print(f"  Outputs: {OUTPUTS_DIR}")
+    print(f"  Vector DB: {VECTOR_DB_DIR}")
     
     # Validation
     issues = validate_config()
