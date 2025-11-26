@@ -2,8 +2,6 @@
 Fraud Detection Agent - Investigation Workflow
 ==============================================
 
-Complete end-to-end investigation pipeline using Google Gemini API.
-
 Pipeline:
 1. Receive alert → 2. Agent investigates → 3. Generate brief → 4. Store result
 """
@@ -57,6 +55,7 @@ class FraudInvestigationAgent:
             self.tools = None
         
         # Convert tool descriptions to Gemini format
+        # this converter was added to preserve compatibility since my tools were originally written in Anthropic-style, but I switched my agent to run on Google Gemini
         self.gemini_tools = self._convert_tools_to_gemini_format()
         
         print(f"✅ Agent initialized with {config.GEMINI_MODEL}\n")

@@ -6,9 +6,6 @@ This module provides all the tools (functions) that the fraud investigation
 agent can use to gather information during its investigation.
 
 Each tool queries a specific data source and returns structured information.
-
-Author: Rosemary
-Date: November 2024
 """
 
 import pandas as pd
@@ -71,7 +68,7 @@ def __init__(self):
         settings=Settings(anonymized_telemetry=False)
     )
     
-    # Load collections (with error handling)
+    # Load collections
     try:
         self.cases_collection = self.chroma_client.get_collection("investigation_cases")
         print("✓ Loaded investigation_cases collection")
@@ -164,7 +161,7 @@ def __init__(self):
             results['metadatas'][0],
             results['distances'][0]
         )):
-            similarity = 1 / (1 + distance)  # Convert L2 distance to similarity
+            similarity = 1 / (1 + distance)  
             similar_cases.append({
                 "rank": i + 1,
                 "case_id": meta.get('case_id', 'Unknown'),
@@ -455,8 +452,8 @@ def __init__(self):
         Example:
             >>> tools.get_transaction_history(days_back=30, limit=100)
         """
-        # For demo purposes, return random sample
-        # In production, you'd filter by user_id via a mapping table
+        # For demo purposes, we'll return random sample
+        # In production, we would filter by user_id using a mapping table
         
         df = self.df_transactions.copy()
         
@@ -567,10 +564,6 @@ def __init__(self):
 # ============================================================================
 
 def get_tool_descriptions() -> List[Dict[str, Any]]:
-    """
-    Returns tool descriptions in Anthropic's tool format.
-    This is what we pass to Claude so it knows what tools are available.
-    """
     return [
         {
             "name": "query_similar_cases",

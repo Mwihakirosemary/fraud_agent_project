@@ -1,7 +1,5 @@
 #!/bin/bash
 # Fraud Detection Agent - Quick Setup Script
-# Author: Rosemary
-# Date: November 2024
 
 echo "🔍 Fraud Detection Agent - Setup"
 echo "================================"

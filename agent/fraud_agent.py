@@ -10,9 +10,6 @@ The agent:
 3. Calls tools to gather evidence
 4. Synthesizes findings into an investigation brief
 5. Provides a recommendation with confidence score
-
-Author: Rosemary
-Date: November 2024
 """
 
 import anthropic
